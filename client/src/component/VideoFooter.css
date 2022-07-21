@@ -1,0 +1,27 @@
+.videofooter{
+    position: relative;
+    bottom: 150px;
+    margin-left: 20px;
+    color: #fff;
+    display: flex;
+
+}
+.video__footer__text{
+    flex: 1;
+}
+.channel__name{
+    font-size: 0.95em;
+    padding-bottom: 10px;
+}
+.channel__description{
+    font-size: 0.95em;
+    padding-bottom: 20px;
+}
+.fa-music{
+    position: absolute;
+}
+.video__footer_ticker p{
+    position: absolute;
+    margin-left: 30px;
+    top: 67px;
+}

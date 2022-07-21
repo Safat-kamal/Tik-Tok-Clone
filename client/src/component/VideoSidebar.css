@@ -1,0 +1,23 @@
+.video__sidebar{
+    position: relative;
+    left: 87%;
+    bottom: 65%;
+    color: white;
+}
+.video__sidebar i {
+    font-size: 1.5em;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.video_sidebar_likes{
+    padding-bottom: 30px;
+}
+.video_sidebar_comments{
+    padding-bottom: 30px;
+}
+.video_sidebar_shares{
+    padding-bottom: 30px;
+}
+.fa-solid.fa-heart{
+    color: red !important;
+}
